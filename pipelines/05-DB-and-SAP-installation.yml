@@ -187,3 +187,4 @@ extends:
           sap_automation_repo_path:        $(Build.SourcesDirectory)/sap-automation
           config_repo_path:                $(Build.SourcesDirectory)/config
           extra_params:                    ${{ parameters.extra_params }}
+/config/Ansible/playbook_05_01_sap_dbload_pre.yml
