@@ -25,6 +25,7 @@ parameters:
     type:                              string
     values:
       - S42023SPS00_v0001ms
+      - S42021ISS00_v0002ms
       - S42022SPS00_v0001ms
       - S42021ISS00_v0001ms
       - S42020ISS00_v0003ms
